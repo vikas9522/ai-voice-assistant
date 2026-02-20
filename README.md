@@ -79,11 +79,8 @@ java -jar target/ai-voice-assistant-1.0-SNAPSHOT.jar
 
 Screenshots
 After running the Run.bat file in you system cmd will run: 
-## 📸 Application Preview
+<img width="1070" height="606" alt="Screenshot_20260220_215845" src="https://github.com/user-attachments/assets/dec96cab-6955-442b-858a-4ae77587c6b1" />
 
-<p align="center">
-  <img src="Screenshot_20260220_215845.png" width="800"/>
-</p>
 
 And this GUI Interface will open
 <img width="747" height="667" alt="{24630CAD-17E4-4232-B8BE-133B9EF28F53}" src="https://github.com/user-attachments/assets/a94d60d0-2a88-418f-acec-ffca8dd2f37b" />
