@@ -12,7 +12,6 @@ A modern JavaFX-based desktop AI assistant powered by Sarvam AI API.
 ## 🚀 Features
 
 - 💬 Chat-based AI interaction
-- 🎤 Voice assistant support
 - 🖥️ Clean JavaFX GUI
 - 🔐 Secure API key handling using environment variables
 - ⚡ Fast Maven-based build
